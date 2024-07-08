@@ -1,0 +1,18 @@
+.d1:hover{
+    background-color: gray !important;
+    color: white !important;
+}
+.d2:hover{
+    /* background-color: gray !important; */
+    color: black !important;
+    font-weight: bold;
+}
+
+.d3:hover{
+    background-color: rgb(4, 17, 75) !important;
+    border-radius: 25px !important;
+    color: white !important;
+    font-weight: bold;
+    padding: 8px !important;
+}
+
